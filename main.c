@@ -1,1 +1,2 @@
-argh
+//argh
+println("Hello world");
